@@ -6,6 +6,6 @@ It was programmed in *Python* using the *graphics library*
 
 ### Possible Improvements
 
-[] Make the encryption more intricate
+[ ] Make the encryption more intricate
 
-[] Select which message to delete, instead of just the oldest one
+[ ] Select which message to delete, instead of just the oldest one
